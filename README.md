@@ -19,6 +19,7 @@ post about it
 ## Documentation
 
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/davecgh/go-spew/spew)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgo-spew.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgo-spew?ref=badge_shield)
 
 Full `go doc` style documentation for the project can be viewed online without
 installing this package by using the excellent GoDoc site here:
@@ -199,3 +200,6 @@ using the unsafe package.
 ## License
 
 Go-spew is licensed under the [copyfree](http://copyfree.org) ISC License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgo-spew.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgo-spew?ref=badge_large)
